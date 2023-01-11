@@ -1,8 +1,14 @@
-      .feedbox{
+     .feedbox{
       background-color:black;
       color:white;
       top:-200px;
       height:250px;
       width:500px;
       border-radius:5px;
+      }
+     body {
+      background-color: #ffffff;
+      }
+     .darkmode{
+      background-color: #313131;
       }
